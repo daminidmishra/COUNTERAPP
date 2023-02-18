@@ -1,0 +1,13 @@
+.container{
+    background-color: lightcoral;
+    height: 350px;
+    width: 350px;
+}
+
+#count{
+    padding-left: 175px;
+}
+
+.buttons{
+    margin-left: 30px;
+}
